@@ -1,0 +1,55 @@
+.all {
+  /* background-color: black; */
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+}
+
+.totalbox {
+  background-color: F1EEE9;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.enteremail {
+  border-radius: 15px;
+  padding: 10px 30px;
+  border: 0;
+  margin: 0px 10px;
+}
+
+.button {
+  background-color: 15133c;
+  color: aliceblue;
+  border-radius: 15px;
+  padding: 10px 30px;
+  border: 0;
+  margin: 0px 10px;
+}
+
+.title {
+  color: 112b3c;
+  text-align: center;
+  margin: 50px 10px;
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.result {
+  height: 10%;
+  margin: 7%;
+  background-color: F4BFBF;
+  border-radius: 20px;
+  color: 293462;
+  font-size: large;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
